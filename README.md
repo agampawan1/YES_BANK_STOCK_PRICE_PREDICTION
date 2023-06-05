@@ -1,5 +1,5 @@
 # YES_BANK_STOCK_PRICE_PREDICTION
-***Predict the closing price of yes bank stock using regression and time-series analysis.***
+***Predict the Stock price of yes bank using regression and time-series analysis.***
 
 The project titled "Yes Bank Stock Price Prediction" aims to analyze and predict the stock price of Yes Bank, a leading private sector bank. The project utilizes various regression techniques, including Linear Regression, Lasso Regression, Ridge Regression, and Elastic Regression, to compare their effectiveness in forecasting the stock price.
 
